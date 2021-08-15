@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 <br>
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
 <!--
 **clkever/clkever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
