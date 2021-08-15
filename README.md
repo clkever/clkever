@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 <br>
- Visualizacões de perfil :<br>
+ Visualizacões<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 
 <!--
