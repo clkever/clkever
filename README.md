@@ -1,5 +1,5 @@
 ### Saudações 👋
-Cursando TI no Senac de São Paulo.
+Cursando TI pelo Senac, São Paulo.
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
