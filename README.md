@@ -2,7 +2,7 @@
 ### Cursando TI pelo Senac, São Paulo.
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<img align='right' src="https://giphy.com/gifs/animation-loop-3o7aCTfyhYawdOXcFW>
+
 
 
 ### Idiomas e Ferramentas:
