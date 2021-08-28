@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </div>
 <br/>
-
 ### Máquina:
 <div display="flex">
   <img src="https://img.shields.io/badge/windows-MSI%20GL63%208RC-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
