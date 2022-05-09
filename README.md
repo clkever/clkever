@@ -1,4 +1,4 @@
-Possui graduação em Aviação Civil pela Universidade Anhembi Morumbi, UAM São Paulo. Técnico de segurança do trabalho pela escola técnica estadual de São Paulo, ETEC. Técnico em informática pelo serviço nacional de aprendizagem comercial, SENAC São Paulo. Tem especial interesse na área de segurança do trabalho, tecnologia da informação com ênfase em gestão da segurança operacional, segurança de voo, banco de dados e elementos visuais de navegação para web.
+Possui graduação em Aviação Civil pela Universidade Anhembi Morumbi, UAM São Paulo. Técnico de segurança do trabalho pela escola técnica estadual de São Paulo, ETEC. Técnico em informática pelo serviço nacional de aprendizagem comercial, SENAC São Paulo. Tem especial interesse na área de segurança do trabalho, tecnologia da informação com ênfase em gestão da segurança operacional, segurança de voo, banco de dados, elementos visuais de navegação para web e fé cristã.
 
 ### Recently I'm coding in...
 <a href="https://codestats.net/users/WEGFan">
